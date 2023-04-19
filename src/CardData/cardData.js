@@ -1,0 +1,23 @@
+export const cardData = [
+    [
+        "https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGxhcHRvcHxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YXBwbGUlMjBsYXB0b3B8ZW58MHx8MHx8&w=1000&q=80",
+        "https://www.cnet.com/a/img/resize/468ea42b69875136295b704ea9b0ed459612de62/hub/2022/04/27/b796792b-5b34-4405-83eb-efc66371ee06/samsung-galaxy-book-2-pro-360-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "https://cdn.dribbble.com/users/1615584/screenshots/15571949/web_1920___346_4x.jpg",
+        "https://www.oberlo.com/media/1603956450-image33.jpg",
+        "https://www.emizentech.com/blog/wp-content/uploads/sites/2/2021/09/siginificance-of-app-development-1.jpg",
+    ],
+    [
+        "https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGxhcHRvcHxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YXBwbGUlMjBsYXB0b3B8ZW58MHx8MHx8&w=1000&q=80",
+        "https://www.cnet.com/a/img/resize/468ea42b69875136295b704ea9b0ed459612de62/hub/2022/04/27/b796792b-5b34-4405-83eb-efc66371ee06/samsung-galaxy-book-2-pro-360-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-DWPJXoq5mFh_GpTc-kc9P-Wwxmy3Jv4M30LN77eaEF3SYrRjNRpbVrCLPx33jwJ-1c&usqp=CAU",
+        "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg"
+    ],
+    [
+        "https://cdn.dribbble.com/users/1615584/screenshots/15571949/web_1920___346_4x.jpg",
+        "https://cdn.dribbble.com/userupload/3284122/file/original-7648ab335ef534aa085dc038ce4d5d78.png?resize=400x0",
+        "https://www.oberlo.com/media/1603956450-image33.jpg",
+        "https://www.emizentech.com/blog/wp-content/uploads/sites/2/2021/09/siginificance-of-app-development-1.jpg",
+    ]
+]
