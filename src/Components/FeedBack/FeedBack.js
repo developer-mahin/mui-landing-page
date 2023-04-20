@@ -69,8 +69,6 @@ const FeedBack = () => {
                     </Box>)
                 }
 
-
-
             </Box>
         </Box>
     );

@@ -5,6 +5,7 @@ import Brands from '../Components/Brands/Brands';
 import Services from '../Components/Services/Services';
 import OurWorks from '../Components/OurWorks/OurWorks';
 import FeedBack from '../Components/FeedBack/FeedBack';
+import Faq from '../Components/Faq/Faq';
 
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
             <Services/>
             <OurWorks/>
             <FeedBack/>
+            <Faq/>
         </Box>
     );
 };
